@@ -1,0 +1,11 @@
+TABLE 10
+IC50s and Relative Binding Affinities (RBA) for Phthalates
+Chemical name Source Purity (%) Mean IC50 (M) RBA (%) Log RBA
+Benzylbutyl phthalate Aldrich 98 .1.00 3 10–3 — —
+BIS (2-ethylhexyl) phthalate Aldrich 99 .1.00 3 10–3 — —
+Dibutyl phthalate Aldrich 99 .1.00 3 10–3 — —
+Diethyl phthalate Aldrich 99 .1.00 3 10–3 — —
+Di-isobutyl phthalate Fluka 98 .1.00 3 10–3 — —
+Di-isononyl phthalate Fluka Tech .1.00 3 10–3 — —
+Dimethyl phthalate Aldrich 99 .1.00 3 10–3 — —
+n-Dioctyl phthalate Fluka 98 .1.00 3 10–3 — —

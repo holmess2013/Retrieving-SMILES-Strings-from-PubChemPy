@@ -1,0 +1,15 @@
+TABLE 1
+IC50s and Relative Binding Affinities (RBA) for Steroidal Estrogens
+Chemical name Source Puritya (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+17b-Estradiol U.S. Biochemical NA 8.99 3 10–10 6 0.27 3 10–10 100.000 2.00
+Estra-1,3,5(10)-trien-3-ol NCIb NA 4.95 3 10–9 6 0.85 3 10–9 18.162 1.26
+Estra-1,3,5(10)-trien-3-ol Steraloids NA 8.85 3 10–9 6 3.15 3 10–9 10.158 1.01
+Estriol Sigma 99 9.25 3 10–9 6 1.75 3 10–9 9.719 0.99
+Estrone Aldrich 99 1.23 3 10–8 6 0.32 3 10–8 7.309 0.86
+17a-Estradiolc Sigma 99 2.93 3 10–8 6 0.80 3 10–8 3.068 0.49
+1,3,5(10)-Estratrien-3,16a,17b-triol Steraloids NA 1.27 3 10–7 6 0.43 3 10–7 0.708 –0.15
+3-Hydroxyestra-1,3,5(10)-trien-16-onec NCI NA 1.75 3 10–7 6 0.05 3 10–7 0.514 –0.29
+3-Deoxyestradiol NCI NA 1.80 3 10–7 6 0.20 3 10–7 0.499 –0.30
+16b-Hydroxy-16-methyl-3-methylether 17b estradiol NCI NA 2.70 3 10–6 6 0.20 3 10–6 0.033 –1.48
+3-Methylestriol NCI NA 4.00 3 10–6 6 0.00 0.022 –1.65
+3-Deoxyestronec NCI NA 1.43 3 10–5 6 0.58 3 10–5 0.006 –2.20

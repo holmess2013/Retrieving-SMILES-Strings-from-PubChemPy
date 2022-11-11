@@ -1,0 +1,16 @@
+TABLE 4
+IC50s and Relative Binding Affinities (RBA) for Other Miscellaneous Steroids
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+Norethynodrela Sigma 99 4.00 3 10–7 6 0.10 3 10–7 0.225 –0.65
+Norethynodrela Steraloids NA 4.40 3 10–7 6 0.40 3 10–7 0.204 –0.69
+5a-Androstane-3b,17b-diola Sigma NA 7.50 3 10–7 6 1.30 3 10–7 0.120 –0.92
+5a-Androstane-3a,17b-diola Sigma 99 4.20 3 10–5 6 0.16 3 10–5 0.002 –2.67
+5a-Dihydrotestosteronea Sigma 99 .1.00 3 10–3 — —
+Aldosterone Sigma 98 .1.00 3 10–4 — —
+Cholesterol Sigma 99 .1.00 3 10–3 — —
+Corticosterone Sigma 95 .1.00 3 10–4 — —
+Dexamethasone Sigma NA .1.00 3 10–4 — —
+Epitestosterone Sigma 99.9 .6.00 3 10–4 — —
+Etiocholan-17b-ol-3-one (5b-dihydrotestosterone) Sigma 99 .1.00 3 10–4 — —
+Progesterone Sigma 99 .1.00 3 10–3 — —
+Testosteronea Sigma 98 .1.00 3 10–3 — —

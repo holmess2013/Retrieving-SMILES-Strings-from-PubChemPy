@@ -1,0 +1,12 @@
+TABLE 3
+IC50s and Relative Binding Affinities (RBA) for Type Ia and Type IIb Antiestrogens
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+4-Hydroxytamoxifen Zeneca NA 5.13 3 10–10 6 1.12 3 10–10 175.244 2.24
+ICI 182,780c Zeneca NA 2.40 3 10–9 6 1.10 3 10–9 37.458 1.57
+Droloxifene (3-hydroxytamoxifen) Zeneca NA 5.90 3 10–9 6 3.05 3 10–9 15.237 1.18
+ICI 164,384c Zeneca NA 6.20 3 10–9 6 1.30 3 10–9 14.500 1.16
+Tamoxifen citrate Zeneca NA 5.55 3 10–8 6 0.05 3 10–8 1.620 0.21
+Toremifene citrate Zeneca NA 6.50 3 10–8 6 0.50 3 10–8 1.383 0.14
+Clomiphene citrate (mixture of cis and trans isomers) Sigma 98 1.25 3 10–7 6 0.75 3 10–7 0.719 –0.14
+Nafoxidine Sigma NA 1.25 3 10–7 6 0.55 3 10–7 0.719 –0.14
+Triphenylethylene Aldrich 99 5.45 3 10–5 6 0.55 3 10–5 0.002 –2.78

@@ -1,0 +1,10 @@
+TABLE 9
+IC50s and Relative Binding Affinities (RBA) for Alkyl Hydroxy Benzoate Preservatives (Parabens)
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+2-Ethylhexyl 4-hydroxybenzoatea Pfaltz & Bauer, Inc. 99 4.95 3 10–6 6 0.05 3 10–6 0.018 –1.74
+Heptyl 4-hydroxybenzoatea Pfaltz & Bauer, Inc. 97 1.10 3 10–5 6 0.10 3 10–5 0.008 –2.09
+Benzyl 4-hydroxybenzoate Aldrich 99 3.15 3 10–5 6 0.35 3 10–5 0.003 –2.54
+Butyl 4-hydroxybenzoate Sigma 99 1.05 3 10–4 6 0.35 3 10–4 0.0009 –3.07
+Propyl 4-hydroxybenzoate Aldrich 99 1.50 3 10–4 6 0.10 3 10–4 0.0006 –3.22
+Ethyl 4-hydroxybenzoate Aldrich 99 1.50 3 10–4 6 0.10 3 10–4 0.0006 –3.22
+Methyl 4-hydroxybenzoate Aldrich 99 2.45 3 10–4 6 0.65 3 10–4 0.0004 –3.44

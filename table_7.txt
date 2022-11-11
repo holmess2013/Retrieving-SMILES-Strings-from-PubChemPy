@@ -1,0 +1,28 @@
+TABLE 7
+IC50s and Relative Binding Affinities (RBA) for Organochlorines
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+DDTs
+o,p9-DDT Supelco 98.5 6.43 3 10–5 6 0.89 3 10–5 0.001 –2.85
+o,p9-DDD Supelco 99.2 .3.00 3 10–4 — —
+p,p9-DDD Supelco 98.5 .1.00 3 10–4 — —
+o,p9-DDE Supelco 99.8 .5.00 3 10–4 — —
+p,p9-DDE Supelco 99.4 .1.00 3 10–4 — —
+p,p9-DDT Supelco 99.2 .1.00 3 10–3 — —
+Methoxychlor derivatives
+Dihydroxymethoxychlor olefin NIEHSa 98 3.40 3 10–8 6 4.00 3 10–8 2.644 0.42
+Dihydroxymethoxychlor (HPTE) NIEHS 98 3.55 3 10–7 6 0.15 3 10–7 0.253 –0.60
+Monohydroxymethoxychlor olefin NIEHS 98 3.90 3 10–7 6 0.80 3 10–7 0.231 –0.64
+Monohydroxymethoxychlor NIEHS 98 6.90 3 10–7 6 0.10 3 10–7 0.130 –0.89
+Methoxychlor Sigma 95 1.44 3 10–4 6 0.66 3 10–4 0.001 –3.20
+Methoxychlor Supelco 99 .1.00 3 10–4 — —
+Methoxychlor olefin Supelco 95 .1.00 3 10–4 — —
+PCBs
+29,39,49,59-Tetrachloro-4-biphenylolb Ultra Scientific 95 3.95 3 10–7 6 0.15 3 10–7 0.228 –0.64
+29,59-Dichloro-4-biphenylol Ultra Scientific 95 2.50 3 10–6 6 0.30 3 10–6 0.036 –1.44
+4-Chloro-49-biphenylol Ultra Scientific 95 1.35 3 10–5 6 0.15 3 10–5 0.007 –2.18
+2-Chloro-4-biphenylol Ultra Scientific 95 5.25 3 10–5 6 2.55 3 10–5 0.002 –2.77
+3,39,5,59-Tetrachloro-4,49-biphenyldiol Ultra Scientific 95 1.60 3 10–4 6 0.10 3 10–4 0.001 –3.25
+2,49-Dichlorobiphenyl Ultra Scientific 99 3.65 3 10–4 6 1.15 3 10–4 0.0002 –3.61
+2,29,4,49-Tetrachlorobiphenyl Ultra Scientific 98.4 .1.00 3 10–4 — —
+3,39,4,49-Tetrachlorobiphenyl Ultra Scientific 99 .3.00 3 10–4 — —
+4,49-Dichlorobiphenyl Ultra Scientific 98.6 .3.00 3 10–4 — —

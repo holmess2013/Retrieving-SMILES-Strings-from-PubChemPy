@@ -1,0 +1,8 @@
+TABLE 11
+IC50s and Relative Binding Affinities (RBA) for Benzophenone Compounds
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+4,49-Dihydroxybenzophenone Aldrich 99 2.60 3 10–5 6 0.40 3 10–5 0.003 –2.46
+2,4-Dihydroxybenzophenone Aldrich 99 3.65 3 10–5 6 0.45 3 10–5 0.002 –2.61
+2,29-Dihydroxy-4-methoxybenzophenone Aldrich 98 .1.00 3 10–4 — —
+2,29-Dihydroxybenzophenone Aldrich 98 .1.00 3 10–4 — —
+2-Hydroxy-4-methoxybenzophenone Aldrich 98 .1.00 3 10–4 — —

@@ -1,0 +1,19 @@
+TABLE 2
+IC50s and Relative Binding Affinities (RBA) for Synthetic Estrogens
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+Diethylstilbestrol (DES) Research Plus NA 2.25 3 10–10 6 0.05 3 10–10 399.556 2.60
+Meso-hexestrol Aldrich 99 3.00 3 10–10 6 0.00 299.667 2.48
+Ethinyl estradiol Research Plus NA 4.73 3 10–10 6 0.60 3 10–10 190.063 2.28
+Dienestrola Sigma 99 2.40 3 10–9 6 0.50 3 10–9 37.458 1.57
+Diethylstilbestrol monomethyl ether Steraloids NA 4.40 3 10–9 6 0.50 3 10–9 20.432 1.31
+3,39-Dihydroxyl hexestrol NCI NA 5.85 3 10–9 6 1.65 3 10–9 15.368 1.19
+Dimethylstilbestrol NCI NA 6.20 3 10–9 6 1.30 3 10–9 14.500 1.16
+Moxestrolb R. H. Purdy NA 6.50 3 10–9 6 1.40 3 10–9 13.831 1.14
+2,6-Dimethyl hexestrola NCI NA 7.00 3 10–9 6 1.73 3 10–9 12.843 1.11
+Hexestrol, mono methyl ether NCI NA 9.60 3 10–9 6 1.40 3 10–9 9.365 0.97
+p-(a,b-Diethyl-p-methyl phenethyl)-meso phenola NCI NA 2.25 3 10–8 6 0.75 3 10–8 3.996 0.60
+DL-hexestrol NCI NA 2.50 3 10–8 6 0.50 3 10–8 3.596 0.56
+Mestranola NA NA 3.97 3 10–8 6 0.65 3 10–8 2.264 0.35
+a,a-Dimethyl-b-ethyl allenolic acid NCI NA 9.50 3 10–8 6 0.50 3 10–8 0.946 –0.02
+Diethylstilbestrol dimethyl ethera Steraloids NA 1.60 3 10–6 6 0.30 3 10–6 0.056 –1.25
+Doisynoestrol NCI NA 4.90 3 10–5 6 1.40 3 10–5 0.002 –

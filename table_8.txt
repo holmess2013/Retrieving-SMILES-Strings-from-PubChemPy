@@ -1,0 +1,23 @@
+TABLE 8
+IC50s and Relative Binding Affinities (RBA) for Other Pesticides
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+Kepone Supelco Neat 7.00 3 10–6 6 1.00 3 10–6 0.013 –1.89
+2,4,5-T Supelco 98 .1.00 3 10–3 — —
+2,4-Dichlorophenoxyacetic acid (2,4-D) Supelco 99 .1.00 3 10–4 — —
+a-Chlordane (mix of isomers) Supelco Neat .1.00 3 10–3 — —
+Alachlor Supelco 98.8 .1.00 3 10–4 — —
+Aldrin Supelco 98 .6.00 3 10–4 — —
+Atrazine Supelco 98 .1.00 3 10–4 — —
+Carbaryl Supelco 99 .1.00 3 10–4 — —
+Carbofuran Aldrich 98 .1.00 3 10–4 — —
+Dieldrin (pure) Supelco 98 .1.00 3 10–4 — —
+Dieldrin (technical grade) Aldrich 90 .1.00 3 10–4 — —
+Endosulfan Supelco 99 .1.00 3 10–3 — —
+Heptachlor Supelco 99.5 .1.00 3 10–4 — —
+Hexachlorobenzene Supelco Neat .1.00 3 10–3 — —
+Lindane Supelco 99 .1.00 3 10–4 — —
+Metolachlor Supelco 98.7 .1.00 3 10–4 — —
+Mirex Supelco 99 .1.00 3 10–4 — —
+Prometon Supelco Neat .1.00 3 10–3 — —
+Simazine Supelco 99 .3.33 3 10–5 — —
+Vinclozolin Supelco 98.2 .1.00 3 10–4 — —

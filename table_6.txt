@@ -1,0 +1,22 @@
+TABLE 6
+IC50s and Relative Binding Affinities (RBA) for Diphenyl Derivatives
+Chemical name Source Purity (%) Mean IC50 (M) 6 SEM RBA (%) Log RBA
+Diphenyl methane derivatives (bisphenol A’s)
+2,2-Bis-(4-hydroxyphenyl)-butane (bisphenol B) Aldrich NA 1.05 3 10–6 6 0.46 3 10–6 0.086 –1.07
+Bisphenol A Aldrich 99 1.17 3 10–5 6 0.64 3 10–5 0.008 –2.11
+2,29-Methylenebis (4-chlorophenol) Aldrich 90 2.55 3 10–5 6 0.15 3 10–5 0.004 –2.45
+BIS (4-hydroxyphenyl)-methane Aldrich 98 9.50 3 10–5 6 0.50 3 10–5 0.0009 –3.02
+4,49-Sulfonyldiphenol Sigma 99 1.05 3 10–4 6 0.35 3 10–4 0.0009 –3.07
+Diphenolic acid Aldrich 95 1.20 3 10–4 6 0.30 3 10–4 0.0007 –3.13
+4,49-Methylenebis (2,6-di-tert-butylphenol) Aldrich 98 .1.00 3 10–4 — —
+BIS (2-hydroxyphenyl)-methane Aldrich 98 .1.00 3 10–5 — —
+Diphenyl ethane derivatives
+4,49-Dihydroxystilbenea NCI NA 3.20 3 10–7 6 0.90 3 10–7 0.281 –0.55
+2,29,4,49-Tetrahydroxybenzil NCI NA 4.30 3 10–7 6 0.00 0.209 –0.68
+4,49-Ethylene diphenol NCI NA 2.45 3 10–6 6 0.35 3 10–6 0.037 –1.44
+4-Phenethylphenol NCI NA 4.40 3 10–5 6 0.60 3 10–5 0.002 –2.69
+4-Stilbenol NCI NA .1.00 3 10–4 — —
+Biphenyl derivatives
+4-Phenylphenol Aldrich 90 9.80 3 10–5 6 5.20 3 10–5 0.001 –3.04
+3-Phenylphenol Aldrich 90 2.45 3 10–4 6 0.45 3 10–4 0.0004 –3.44
+2-Phenylphenol Aldrich 99 .1.00 3 10–4 — —
